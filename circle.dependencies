@@ -9,8 +9,9 @@
     "branch": "lineage-23.2"
   },
   {
-    "repository": "TheMuppets/proprietary_vendor_google_bluejay",
+    "remote": "circling-devices-gitea",
+    "repository": "vendor_google_bluejay",
     "target_path": "vendor/google/bluejay",
-    "branch": "lineage-23.2"
+    "branch": "16.2"
   }
 ]
